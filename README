@@ -1,0 +1,8 @@
+dstat plugin
+FILES
+       Paths that may contain external dstat_*.py plugins:
+
+       ~/.dstat/
+       (path of binary)/plugins/
+       /usr/share/dstat/
+       /usr/local/share/dstat/
